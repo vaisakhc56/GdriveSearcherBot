@@ -1,4 +1,4 @@
-BOT_TOKEN = "1629027959:AAEaTw4s2qaAL3mYP3fQRnE"
+BOT_TOKEN = "1910688339:AAG0t3dMaraOL9u31bkjMEbFcMPy-Pl6rA8"
 RESULTS_COUNT = 4  # NOTE Number of results to show, 4 is better
 SUDO_CHATS_ID = [-1001485393652, -1005456463651]
 
@@ -13,19 +13,19 @@ DRIVE_NAME = [
 ]
 
 DRIVE_ID = [
-    "1B9A3QqQqF31IuW2om3Qhr-wkiVLloxw8",  # folder 1 id
-    "12wNJTjNnR-CNBOTnLHqe-1vqFvCRLecn",  # folder 2 id
-    "11nZcObsJJHojHYg43dBS0_eVvJrSD7Nf",  # and so onn... folder n id
+    "0AHQOFQWVW-LiUk9PVA",  # folder 1 id
+    "0AKqQHy-eIErTUk9PVA",  # folder 2 id
+    "0AITVP56KLmIIUk9PVA",  # and so onn... folder n id
     "10_hTMK8HE8k144wOTth_3x1hC2kZL-LR",
     "1-oTctBpyFcydDNiptLL09Enwte0dClCq",
     "1B9A3QqQqF31IuW2om3Qhr-wkiVLloxw8"
 ]
 
 INDEX_URL = [
-    "https://dl.null.tech/0:",  # folder 1 index link
-    "https://dl.null.tech/0:/Cartoon",  # folder 2 index link
-    "https://dl.null.tech/0:/Course",  # and soo on folder n link
-    "https://dl.null.tech/0:/MOVIES",
-    "https://dl.null.tech/0:/Series",
+    "https://vc.vc007.workers.dev/0:",  # folder 1 index link
+    "https://vc.vc007.workers.dev/1:/Animated",  # folder 2 index link
+    "https://vc.vc007.workers.dev/2:",  # and soo on folder n link
+    "https://vc.vc007.workers.dev/1:/Movies",
+    "https://vc.vc007.workers.dev/1:/Series",
     "https://dl.null.tech/0:/Roms"
 ]
